@@ -20,7 +20,8 @@ Progress tracking
 Pomodoro timer                                              
 AI-generated study plans                                              
 Advanced study tools (Study Hub)                                                    
-✨ Key Features                                              
+✨ Key Features 
+                                                                            
 🔐 1. Authentication System                                                            
 Secure User Signup & Login                                                          
 Passwords stored using hashing (Werkzeug)                                            
@@ -43,7 +44,8 @@ Features:
 📉 Progress Tracking:                                                      
 Total tasks count                                                                            
 Completed tasks                                                                            
-Progress bar (auto calculated)                                            
+Progress bar (auto calculated)    
+                                                                            
 ⏱️ 3. Pomodoro Timer System                                                    
                                                                               
 Built-in focus timer for productivity.                                                                
